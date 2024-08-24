@@ -1,0 +1,33 @@
+.challanges {
+  padding: 175px 0;
+}
+
+.challanges-ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+  margin-left: -136px;
+}
+
+.challanges-box {
+  width: calc(100% / 3 - 136px);
+  margin-left: 136px;
+  margin-bottom: 73px;
+  text-align: center;
+  background-color: #625cff;
+  box-shadow: -7px 7px 7.4px 0px #27fbffb3;
+  padding: 44px 15px 51px 15px;
+  border-radius: 20px;
+}
+
+.challanges-title {
+  font-size: 35px;
+  font-weight: 500;
+  margin-bottom: 40px;
+}
+
+.challanges-text {
+  font-size: 45px;
+  font-weight: 700;
+}

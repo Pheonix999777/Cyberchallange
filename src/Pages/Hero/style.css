@@ -1,0 +1,31 @@
+.hero {
+  padding: 175px 0;
+}
+
+.hero-box {
+  text-align: center;
+}
+
+.hero-title {
+  font-size: 51px;
+  font-weight: 600;
+}
+
+.hero-text {
+  font-size: 26px;
+  font-weight: 300;
+  margin-top: 28px;
+}
+
+.hero-btn {
+  font-size: 35px;
+  background: none;
+  border: 2px solid #fff;
+  padding: 11px 24px;
+  border-radius: 12px;
+  color: #fff;
+  display: inline-flex;
+  gap: 4px;
+  cursor: pointer;
+  margin-top: 53px;
+}

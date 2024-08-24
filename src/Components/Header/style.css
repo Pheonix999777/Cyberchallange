@@ -1,0 +1,32 @@
+.header {
+  padding: 40px 0;
+}
+
+.header .container {
+  display: flex;
+}
+
+.header-logo {
+  font-size: 39px;
+  font-weight: 600;
+}
+
+.header-ul {
+  display: inline-flex;
+  gap: 35px;
+  list-style: none;
+  margin-left: 124px;
+}
+
+.header-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 28px;
+  font-weight: 500;
+}
+
+.header-img {
+  width: 43px;
+  height: 53px;
+}
